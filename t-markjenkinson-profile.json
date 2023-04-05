@@ -1,0 +1,32 @@
+{
+  "TermsOfServiceVersion": 1,
+  "TermsAgreedToWhen": "2023-04-05T14:33:13Z",
+  "IdClaims": [
+    {
+      "Claim": "t:markjenkinson"
+    },
+    {
+      "Claim": "spout:markjenkinson"
+    },
+    {
+      "Claim": "mdon:@markjenkinson@mastodon.social"
+    },
+    {
+      "Claim": "post:markjenkinson"
+    },
+    {
+      "Claim": "yt:@mjenkinson"
+    }
+  ],
+  "IdDisclaims": null,
+  "Signature": {
+    "Authority": "https://whosum.com",
+    "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
+    "Nonce": "7c29c2ca312232a6d03cfd81",
+    "Timestamp": "2023-04-05T14:44:29Z",
+    "Signature": "47f3e78c04905f9ff8c0c27b19e7b50dade8844d51bc8723ff79566bcca60c85544905fb7291493b1e044f3eca7b0f845e7556ea6b1cd7ad47c2e28d5401c29e390207c645ac60b04cb8edfaa11db16d5e927757e6524e3f6d69946d8e386d3d86ee61cc1fd4a980b53a4808621affdcf4238360a2da989fb44ebc87007a5a2a4f43a4f1e4deec2de663cc424435e55a2a824bbecdc55d7a2298de6fa5f3442c3f159e9d627a512824988688d33ef7e6ddbe65ead333c85a4cb2ff1d6fd57a54acfe63161ddeafea0f97e96a90ba617ba9a516e414f6553d4167d77e9dd416ed2232f7cc94ab3167aaa4029b900a0da9750c9e1800b9db48d6549495f9d8d11b"
+  },
+  "AgreedToTerms": true,
+  "ContentSha256": "65c123fd9dfdef2e6122f54a37e91897723b4ee7ad57659c1cf4193b0f3c196b",
+  "ContentToHash": "v1|mdon:@markjenkinson@mastodon.social,post:markjenkinson,spout:markjenkinson,t:markjenkinson,yt:@mjenkinson|2023-04-05T14:33:13Z"
+}
